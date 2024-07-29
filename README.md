@@ -32,7 +32,7 @@ This repository contains detailed notes from the Python for Data Science and Mac
 - **Section 26: Big Data and Spark with Python**
 
 ## Installation
-Download the notes or enroll in the course to access the materials.
+Download the notes or enroll [Python for Data Science and Machine Learning Bootcamp].(https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=NVDIN35) in the course to access the materials.
 
 ## Usage
 These notes are intended for educational purposes, to assist learners in understanding and applying Python for data science and machine learning.
