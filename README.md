@@ -1,7 +1,7 @@
 # Python for Data Science and Machine Learning Bootcamp Notes
 
 ## Description
-This repository contains detailed notes from the Python for Data Science and Machine Learning Bootcamp. These notes cover a wide range of topics and are structured to assist learners in mastering Python for data science and machine learning.
+This repository contains comprehensive notes from the "Python for Data Science and Machine Learning Bootcamp" course. These notes cover various topics and are structured to help learners understand and apply Python in the context of data science and machine learning.
 
 ## Table of Contents
 - **Section 1: Introduction**
@@ -19,7 +19,7 @@ This repository contains detailed notes from the Python for Data Science and Mac
 - **Section 13: Data Capstone Project**
 - **Section 14: Introduction to Machine Learning**
 - **Section 15: Linear Regression**
-- **Section 16: Cross Validation and Bias Variance Trade-Off**
+- **Section 16: Cross Validation and Bias-Variance Trade-Off**
 - **Section 17: Logistic Regression**
 - **Section 18: K Nearest Neighbors**
 - **Section 19: Decision Trees and Random Forests**
@@ -32,14 +32,14 @@ This repository contains detailed notes from the Python for Data Science and Mac
 - **Section 26: Big Data and Spark with Python**
 
 ## Installation
-Download the notes or enroll [Python for Data Science and Machine Learning Bootcamp].(https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=NVDIN35) in the course to access the materials.
+Download the notes or enroll in the course using this [link](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=NVDIN35).
 
 ## Usage
-These notes are intended for educational purposes, to assist learners in understanding and applying Python for data science and machine learning.
+These notes are intended for educational purposes to assist learners in understanding and applying Python for data science and machine learning.
 
 ## Features
 - Comprehensive coverage of Python topics relevant to data science and machine learning.
-- Practical examples to illustrate key concepts.
+- Practical examples and exercises to illustrate key concepts.
 
 ## Contributing
 These notes are intended for educational purposes.
@@ -52,5 +52,4 @@ This project is licensed under the Apache-2.0 License.
 - **Email**: [rachitmore3@gmail.com](mailto:rachitmore3@gmail.com)
 
 ## Acknowledgments
-- Instructor: Jose Portilla
-- Head of Data Science at Pierian Training
+- Instructor: Jose Portilla, Head of Data Science at Pierian Training
